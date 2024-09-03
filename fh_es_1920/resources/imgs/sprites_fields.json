@@ -1,0 +1,125 @@
+{
+"frames": {
+	"mapArt10.png": {
+		"frame": {"x":1317, "y":744, "w":38, "h":153},
+		"spriteSourceSize": {"x":0,"y":0,"w":38,"h":153},
+		"sourceSize": {"w":38,"h":153}
+	},
+	"mapArt11.png": {
+		"frame": {"x":801, "y":424, "w":290, "h":145},
+		"spriteSourceSize": {"x":0,"y":0,"w":290,"h":145},
+		"sourceSize": {"w":290,"h":145}
+	},
+	"mapArt12.png": {
+		"frame": {"x":801, "y":570, "w":96, "h":95},
+		"spriteSourceSize": {"x":0,"y":0,"w":96,"h":95},
+		"sourceSize": {"w":96,"h":95}
+	},
+	"mapArt13.png": {
+		"frame": {"x":0, "y":237, "w":800, "h":177},
+		"spriteSourceSize": {"x":0,"y":0,"w":800,"h":177},
+		"sourceSize": {"w":800,"h":177}
+	},
+	"mapArt14.png": {
+		"frame": {"x":595, "y":1289, "w":594, "h":107},
+		"spriteSourceSize": {"x":0,"y":0,"w":594,"h":107},
+		"sourceSize": {"w":594,"h":107}
+	},
+	"mapArt15.png": {
+		"frame": {"x":0, "y":1289, "w":594, "h":139},
+		"spriteSourceSize": {"x":0,"y":0,"w":594,"h":139},
+		"sourceSize": {"w":594,"h":139}
+	},
+	"mapArt16.png": {
+		"frame": {"x":0, "y":415, "w":800, "h":288},
+		"spriteSourceSize": {"x":0,"y":0,"w":800,"h":288},
+		"sourceSize": {"w":800,"h":288}
+	},
+	"mapArt17.png": {
+		"frame": {"x":801, "y":0, "w":355, "h":206},
+		"spriteSourceSize": {"x":0,"y":0,"w":355,"h":206},
+		"sourceSize": {"w":355,"h":206}
+	},
+	"mapArt18.png": {
+		"frame": {"x":0, "y":1041, "w":627, "h":247},
+		"spriteSourceSize": {"x":0,"y":0,"w":627,"h":247},
+		"sourceSize": {"w":627,"h":247}
+	},
+	"mapArt19.png": {
+		"frame": {"x":1157, "y":0, "w":214, "h":328},
+		"spriteSourceSize": {"x":0,"y":0,"w":214,"h":328},
+		"sourceSize": {"w":214,"h":328}
+	},
+	"mapArt2.png": {
+		"frame": {"x":1092, "y":424, "w":278, "h":163},
+		"spriteSourceSize": {"x":0,"y":0,"w":278,"h":163},
+		"sourceSize": {"w":278,"h":163}
+	},
+	"mapArt20.png": {
+		"frame": {"x":628, "y":1041, "w":536, "h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":536,"h":40},
+		"sourceSize": {"w":536,"h":40}
+	},
+	"mapArt21.png": {
+		"frame": {"x":628, "y":1082, "w":530, "h":151},
+		"spriteSourceSize": {"x":0,"y":0,"w":530,"h":151},
+		"sourceSize": {"w":530,"h":151}
+	},
+	"mapArt22.png": {
+		"frame": {"x":0, "y":946, "w":654, "h":94},
+		"spriteSourceSize": {"x":0,"y":0,"w":654,"h":94},
+		"sourceSize": {"w":654,"h":94}
+	},
+	"mapArt23.png": {
+		"frame": {"x":0, "y":704, "w":666, "h":241},
+		"spriteSourceSize": {"x":0,"y":0,"w":666,"h":241},
+		"sourceSize": {"w":666,"h":241}
+	},
+	"mapArt24.png": {
+		"frame": {"x":0, "y":0, "w":800, "h":236},
+		"spriteSourceSize": {"x":0,"y":0,"w":800,"h":236},
+		"sourceSize": {"w":800,"h":236}
+	},
+	"mapArt3.png": {
+		"frame": {"x":1048, "y":886, "w":268, "h":149},
+		"spriteSourceSize": {"x":0,"y":0,"w":268,"h":149},
+		"sourceSize": {"w":268,"h":149}
+	},
+	"mapArt4.png": {
+		"frame": {"x":655, "y":946, "w":392, "h":94},
+		"spriteSourceSize": {"x":0,"y":0,"w":392,"h":94},
+		"sourceSize": {"w":392,"h":94}
+	},
+	"mapArt5.png": {
+		"frame": {"x":801, "y":207, "w":325, "h":216},
+		"spriteSourceSize": {"x":0,"y":0,"w":325,"h":216},
+		"sourceSize": {"w":325,"h":216}
+	},
+	"mapArt6.png": {
+		"frame": {"x":1190, "y":1245, "w":162, "h":162},
+		"spriteSourceSize": {"x":0,"y":0,"w":162,"h":162},
+		"sourceSize": {"w":162,"h":162}
+	},
+	"mapArt7.png": {
+		"frame": {"x":1159, "y":1082, "w":162, "h":162},
+		"spriteSourceSize": {"x":0,"y":0,"w":162,"h":162},
+		"sourceSize": {"w":162,"h":162}
+	},
+	"mapArt8.png": {
+		"frame": {"x":1118, "y":588, "w":276, "h":155},
+		"spriteSourceSize": {"x":0,"y":0,"w":276,"h":155},
+		"sourceSize": {"w":276,"h":155}
+	},
+	"mapArt9.png": {
+		"frame": {"x":667, "y":704, "w":450, "h":181},
+		"spriteSourceSize": {"x":0,"y":0,"w":450,"h":181},
+		"sourceSize": {"w":450,"h":181}
+	}
+
+},
+"meta": {
+	"image": "sprites_fields.png",
+	"size": {"w": 1395, "h": 1429},
+	"scale": "1"
+}
+}

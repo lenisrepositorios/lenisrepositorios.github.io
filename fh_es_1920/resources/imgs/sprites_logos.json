@@ -1,0 +1,310 @@
+{
+"frames": {
+	"alaves_17.png": {
+		"frame": {"x":102, "y":276, "w":17, "h":10},
+		"spriteSourceSize": {"x":0,"y":0,"w":17,"h":10},
+		"sourceSize": {"w":17,"h":10}
+	},
+	"alaves_28.png": {
+		"frame": {"x":84, "y":252, "w":28, "h":17},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":17},
+		"sourceSize": {"w":28,"h":17}
+	},
+	"alaves_83.png": {
+		"frame": {"x":0, "y":0, "w":83, "h":51},
+		"spriteSourceSize": {"x":0,"y":0,"w":83,"h":51},
+		"sourceSize": {"w":83,"h":51}
+	},
+	"athletic_bilbao_17.png": {
+		"frame": {"x":346, "y":47, "w":15, "h":17},
+		"spriteSourceSize": {"x":0,"y":0,"w":15,"h":17},
+		"sourceSize": {"w":15,"h":17}
+	},
+	"athletic_bilbao_28.png": {
+		"frame": {"x":291, "y":252, "w":25, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":25,"h":28},
+		"sourceSize": {"w":25,"h":28}
+	},
+	"athletic_bilbao_83.png": {
+		"frame": {"x":84, "y":84, "w":73, "h":83},
+		"spriteSourceSize": {"x":0,"y":0,"w":73,"h":83},
+		"sourceSize": {"w":73,"h":83}
+	},
+	"atletico_madrid_17.png": {
+		"frame": {"x":291, "y":310, "w":13, "h":17},
+		"spriteSourceSize": {"x":0,"y":0,"w":13,"h":17},
+		"sourceSize": {"w":13,"h":17}
+	},
+	"atletico_madrid_28.png": {
+		"frame": {"x":329, "y":310, "w":21, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":21,"h":28},
+		"sourceSize": {"w":21,"h":28}
+	},
+	"atletico_madrid_83.png": {
+		"frame": {"x":227, "y":0, "w":63, "h":83},
+		"spriteSourceSize": {"x":0,"y":0,"w":63,"h":83},
+		"sourceSize": {"w":63,"h":83}
+	},
+	"barcelona_17.png": {
+		"frame": {"x":339, "y":131, "w":17, "h":17},
+		"spriteSourceSize": {"x":0,"y":0,"w":17,"h":17},
+		"sourceSize": {"w":17,"h":17}
+	},
+	"barcelona_28.png": {
+		"frame": {"x":222, "y":336, "w":28, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":28},
+		"sourceSize": {"w":28,"h":28}
+	},
+	"barcelona_83.png": {
+		"frame": {"x":0, "y":287, "w":82, "h":83},
+		"spriteSourceSize": {"x":0,"y":0,"w":82,"h":83},
+		"sourceSize": {"w":82,"h":83}
+	},
+	"celta_vigo_17.png": {
+		"frame": {"x":361, "y":239, "w":10, "h":17},
+		"spriteSourceSize": {"x":0,"y":0,"w":10,"h":17},
+		"sourceSize": {"w":10,"h":17}
+	},
+	"celta_vigo_28.png": {
+		"frame": {"x":346, "y":18, "w":16, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":16,"h":28},
+		"sourceSize": {"w":16,"h":28}
+	},
+	"celta_vigo_83.png": {
+		"frame": {"x":291, "y":84, "w":47, "h":83},
+		"spriteSourceSize": {"x":0,"y":0,"w":47,"h":83},
+		"sourceSize": {"w":47,"h":83}
+	},
+	"eibar_17.png": {
+		"frame": {"x":358, "y":83, "w":11, "h":17},
+		"spriteSourceSize": {"x":0,"y":0,"w":11,"h":17},
+		"sourceSize": {"w":11,"h":17}
+	},
+	"eibar_28.png": {
+		"frame": {"x":339, "y":84, "w":18, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":18,"h":28},
+		"sourceSize": {"w":18,"h":28}
+	},
+	"eibar_83.png": {
+		"frame": {"x":291, "y":0, "w":54, "h":83},
+		"spriteSourceSize": {"x":0,"y":0,"w":54,"h":83},
+		"sourceSize": {"w":54,"h":83}
+	},
+	"espanyol_17.png": {
+		"frame": {"x":357, "y":149, "w":12, "h":17},
+		"spriteSourceSize": {"x":0,"y":0,"w":12,"h":17},
+		"sourceSize": {"w":12,"h":17}
+	},
+	"espanyol_28.png": {
+		"frame": {"x":341, "y":252, "w":19, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":19,"h":28},
+		"sourceSize": {"w":19,"h":28}
+	},
+	"espanyol_83.png": {
+		"frame": {"x":290, "y":168, "w":57, "h":83},
+		"spriteSourceSize": {"x":0,"y":0,"w":57,"h":83},
+		"sourceSize": {"w":57,"h":83}
+	},
+	"getafe_17.png": {
+		"frame": {"x":346, "y":0, "w":16, "h":17},
+		"spriteSourceSize": {"x":0,"y":0,"w":16,"h":17},
+		"sourceSize": {"w":16,"h":17}
+	},
+	"getafe_28.png": {
+		"frame": {"x":251, "y":336, "w":27, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":27,"h":28},
+		"sourceSize": {"w":27,"h":28}
+	},
+	"getafe_83.png": {
+		"frame": {"x":83, "y":287, "w":80, "h":83},
+		"spriteSourceSize": {"x":0,"y":0,"w":80,"h":83},
+		"sourceSize": {"w":80,"h":83}
+	},
+	"granada_17.png": {
+		"frame": {"x":339, "y":149, "w":17, "h":17},
+		"spriteSourceSize": {"x":0,"y":0,"w":17,"h":17},
+		"sourceSize": {"w":17,"h":17}
+	},
+	"granada_28.png": {
+		"frame": {"x":193, "y":336, "w":28, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":28},
+		"sourceSize": {"w":28,"h":28}
+	},
+	"granada_83.png": {
+		"frame": {"x":0, "y":121, "w":83, "h":83},
+		"spriteSourceSize": {"x":0,"y":0,"w":83,"h":83},
+		"sourceSize": {"w":83,"h":83}
+	},
+	"leganes_17.png": {
+		"frame": {"x":339, "y":113, "w":17, "h":17},
+		"spriteSourceSize": {"x":0,"y":0,"w":17,"h":17},
+		"sourceSize": {"w":17,"h":17}
+	},
+	"leganes_28.png": {
+		"frame": {"x":164, "y":336, "w":28, "h":27},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":27},
+		"sourceSize": {"w":28,"h":27}
+	},
+	"leganes_83.png": {
+		"frame": {"x":0, "y":205, "w":83, "h":81},
+		"spriteSourceSize": {"x":0,"y":0,"w":83,"h":81},
+		"sourceSize": {"w":83,"h":81}
+	},
+	"levante_17.png": {
+		"frame": {"x":350, "y":339, "w":14, "h":17},
+		"spriteSourceSize": {"x":0,"y":0,"w":14,"h":17},
+		"sourceSize": {"w":14,"h":17}
+	},
+	"levante_28.png": {
+		"frame": {"x":305, "y":310, "w":23, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":23,"h":28},
+		"sourceSize": {"w":23,"h":28}
+	},
+	"levante_83.png": {
+		"frame": {"x":157, "y":168, "w":69, "h":83},
+		"spriteSourceSize": {"x":0,"y":0,"w":69,"h":83},
+		"sourceSize": {"w":69,"h":83}
+	},
+	"mallorca_17.png": {
+		"frame": {"x":351, "y":310, "w":13, "h":17},
+		"spriteSourceSize": {"x":0,"y":0,"w":13,"h":17},
+		"sourceSize": {"w":13,"h":17}
+	},
+	"mallorca_28.png": {
+		"frame": {"x":328, "y":339, "w":21, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":21,"h":28},
+		"sourceSize": {"w":21,"h":28}
+	},
+	"mallorca_83.png": {
+		"frame": {"x":227, "y":84, "w":63, "h":83},
+		"spriteSourceSize": {"x":0,"y":0,"w":63,"h":83},
+		"sourceSize": {"w":63,"h":83}
+	},
+	"osasuna_17.png": {
+		"frame": {"x":357, "y":113, "w":13, "h":17},
+		"spriteSourceSize": {"x":0,"y":0,"w":13,"h":17},
+		"sourceSize": {"w":13,"h":17}
+	},
+	"osasuna_28.png": {
+		"frame": {"x":142, "y":252, "w":21, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":21,"h":28},
+		"sourceSize": {"w":21,"h":28}
+	},
+	"osasuna_83.png": {
+		"frame": {"x":227, "y":168, "w":62, "h":83},
+		"spriteSourceSize": {"x":0,"y":0,"w":62,"h":83},
+		"sourceSize": {"w":62,"h":83}
+	},
+	"real_betis_17.png": {
+		"frame": {"x":84, "y":270, "w":17, "h":14},
+		"spriteSourceSize": {"x":0,"y":0,"w":17,"h":14},
+		"sourceSize": {"w":17,"h":14}
+	},
+	"real_betis_28.png": {
+		"frame": {"x":113, "y":252, "w":28, "h":23},
+		"spriteSourceSize": {"x":0,"y":0,"w":28,"h":23},
+		"sourceSize": {"w":28,"h":23}
+	},
+	"real_betis_83.png": {
+		"frame": {"x":0, "y":52, "w":83, "h":68},
+		"spriteSourceSize": {"x":0,"y":0,"w":83,"h":68},
+		"sourceSize": {"w":83,"h":68}
+	},
+	"real_madrid_17.png": {
+		"frame": {"x":357, "y":131, "w":12, "h":17},
+		"spriteSourceSize": {"x":0,"y":0,"w":12,"h":17},
+		"sourceSize": {"w":12,"h":17}
+	},
+	"real_madrid_28.png": {
+		"frame": {"x":340, "y":281, "w":20, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":20,"h":28},
+		"sourceSize": {"w":20,"h":28}
+	},
+	"real_madrid_83.png": {
+		"frame": {"x":231, "y":252, "w":59, "h":83},
+		"spriteSourceSize": {"x":0,"y":0,"w":59,"h":83},
+		"sourceSize": {"w":59,"h":83}
+	},
+	"real_sociedad_17.png": {
+		"frame": {"x":348, "y":167, "w":15, "h":17},
+		"spriteSourceSize": {"x":0,"y":0,"w":15,"h":17},
+		"sourceSize": {"w":15,"h":17}
+	},
+	"real_sociedad_28.png": {
+		"frame": {"x":291, "y":281, "w":24, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":24,"h":28},
+		"sourceSize": {"w":24,"h":28}
+	},
+	"real_sociedad_83.png": {
+		"frame": {"x":84, "y":168, "w":72, "h":83},
+		"spriteSourceSize": {"x":0,"y":0,"w":72,"h":83},
+		"sourceSize": {"w":72,"h":83}
+	},
+	"sevilla_17.png": {
+		"frame": {"x":348, "y":203, "w":14, "h":17},
+		"spriteSourceSize": {"x":0,"y":0,"w":14,"h":17},
+		"sourceSize": {"w":14,"h":17}
+	},
+	"sevilla_28.png": {
+		"frame": {"x":316, "y":281, "w":23, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":23,"h":28},
+		"sourceSize": {"w":23,"h":28}
+	},
+	"sevilla_83.png": {
+		"frame": {"x":158, "y":84, "w":68, "h":83},
+		"spriteSourceSize": {"x":0,"y":0,"w":68,"h":83},
+		"sourceSize": {"w":68,"h":83}
+	},
+	"valencia_17.png": {
+		"frame": {"x":348, "y":221, "w":14, "h":17},
+		"spriteSourceSize": {"x":0,"y":0,"w":14,"h":17},
+		"sourceSize": {"w":14,"h":17}
+	},
+	"valencia_28.png": {
+		"frame": {"x":305, "y":339, "w":22, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":22,"h":28},
+		"sourceSize": {"w":22,"h":28}
+	},
+	"valencia_83.png": {
+		"frame": {"x":164, "y":252, "w":66, "h":83},
+		"spriteSourceSize": {"x":0,"y":0,"w":66,"h":83},
+		"sourceSize": {"w":66,"h":83}
+	},
+	"valladolid_17.png": {
+		"frame": {"x":346, "y":65, "w":15, "h":17},
+		"spriteSourceSize": {"x":0,"y":0,"w":15,"h":17},
+		"sourceSize": {"w":15,"h":17}
+	},
+	"valladolid_28.png": {
+		"frame": {"x":279, "y":336, "w":25, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":25,"h":28},
+		"sourceSize": {"w":25,"h":28}
+	},
+	"valladolid_83.png": {
+		"frame": {"x":84, "y":0, "w":74, "h":83},
+		"spriteSourceSize": {"x":0,"y":0,"w":74,"h":83},
+		"sourceSize": {"w":74,"h":83}
+	},
+	"villarreal_17.png": {
+		"frame": {"x":348, "y":185, "w":14, "h":17},
+		"spriteSourceSize": {"x":0,"y":0,"w":14,"h":17},
+		"sourceSize": {"w":14,"h":17}
+	},
+	"villarreal_28.png": {
+		"frame": {"x":317, "y":252, "w":23, "h":28},
+		"spriteSourceSize": {"x":0,"y":0,"w":23,"h":28},
+		"sourceSize": {"w":23,"h":28}
+	},
+	"villarreal_83.png": {
+		"frame": {"x":159, "y":0, "w":67, "h":83},
+		"spriteSourceSize": {"x":0,"y":0,"w":67,"h":83},
+		"sourceSize": {"w":67,"h":83}
+	}
+
+},
+"meta": {
+	"image": "sprites_logos.png",
+	"size": {"w": 372, "h": 371},
+	"scale": "1"
+}
+}
