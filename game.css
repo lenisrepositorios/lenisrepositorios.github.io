@@ -1,0 +1,67 @@
+@font-face {
+    font-family: 'Century Gothic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Century Gothic'),
+            url('./resources/fonts/GOTHIC.woff2') format('woff2'),
+            url('./resources/fonts/GOTHIC.woff') format('woff'),
+            url('./resources/fonts/GOTHIC.ttf') format('ttf');
+}
+@font-face {
+    font-family: 'Cadillac Sans';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Cadillac Sans'),
+    url('./resources/fonts/cadillac_sans.woff2') format('woff2'),
+    url('./resources/fonts/cadillac_sans.woff') format('woff'),
+    url('./resources/fonts/cadillac_sans.otf') format('ttf');
+}
+
+body{
+	padding: 0;
+	margin: 0;
+}
+
+#gameBlock
+{
+    width: 100%;
+}
+
+.unselectable {
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+
+#logBlock
+{
+    width: 100%;
+    text-align: left;
+}
+
+#logBlock .error
+{
+    color: #731509;
+}
+
+#logBlock .debug
+{
+    color: #9f4214;
+}
+
+#logBlock .warn
+{
+    color: #5c4515;
+}
+
+#logBlock .info
+{
+    color: #09510f;
+}
+
+
+
+
+
